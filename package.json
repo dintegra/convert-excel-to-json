@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "node.extend": "^2.0.3",
-    "xlsx": "file:vendor/xlsx-0.20.2.tgz"
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.2/xlsx-0.20.2.tgz"
   },
   "devDependencies": {
     "chai": "^5.1.1",
