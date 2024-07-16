@@ -4,7 +4,6 @@
   "description": "Convert Excel to JSON",
   "homepage": "https://github.com/DiegoZoracKy/convert-excel-to-json/",
   "main": "./lib/convert-excel-to-json.js",
-  "bin": "./bin/cli.js",
   "author": {
     "name": "Diego ZoracKy",
     "email": "diego.zoracky@gmail.com",
